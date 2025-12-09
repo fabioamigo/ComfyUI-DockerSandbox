@@ -35,7 +35,7 @@ pip install docker
 1.  Clone this repository into your ComfyUI's `custom_nodes` folder:
     ```bash
     cd path/to/ComfyUI/custom_nodes/
-    git clone [Your Repository URL]
+    git clone https://github.com/fabioamigo/ComfyUI-DockerSandbox.git
     ```
 2.  Restart ComfyUI.
 
